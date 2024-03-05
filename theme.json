@@ -113,7 +113,7 @@
         "PRIMARY_360": "#e3e3e3",
         "PRIMARY_400": "#5c5c5c",
         "PRIMARY_500": "#000000",
-        "PRIMARY_600": "#00000042",
+        "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
@@ -136,7 +136,7 @@
   "background": {
     "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/919920863720120382/1124541555768840202/41_07.png",
-    "alpha": 1
+    "alpha": 0.42
   },
     "spec": 2
 }
